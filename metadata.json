@@ -1,0 +1,5 @@
+{
+  "name": "Bioinformatics Drug Screening Workflow",
+  "description": "An interactive academic schematic visualizing the workflow for drug discovery using LINCS L1000CDS2 and transcriptomic data.",
+  "requestFramePermissions": []
+}
